@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Snake plant",
+    "content": "Also known as “mother-in-law’s tongue”, this ornamental plant also works as an excellent air purifier. An easy-to-maintain indoor plant that thrives in low light, it absorbs toxins and chemicals from the air and converts carbon dioxide into oxygen.",
+    "image": "snakePlant",
+    "water_type": "1",
+    "sunlight": "1"
+  },
+  {
+    "name": "Money Plant",
+    "content": "This is one of the most popular Indian plants, which is easy to grow in both soil and water. The money plant improves air quality in the house and according to Feng Shui principles, creates a harmonious environment and brings in prosperity. ",
+    "image": "moneyPlant",
+    "water_type": "2",
+    "sunlight": "4"
+  },
+  {
+    "name": "Aloevera",
+    "content": "Aloe vera is an easy to maintain succulent which caters to health, beauty and your home decor all at once. Known extensively for its various uses, the plant is also fondly called “the miracle plant”. This ornamental plant needs to be kept near a sunny window where it can get enough light.",
+    "image": "aloevera",
+    "water_type": "2",
+    "sunlight": "3"
+  },
+  {
+    "name": "Peace Lily",
+    "content": "Apart from being aesthetically appealing, peace lilies enhance indoor air quality. These plants require little to no sunlight and are easy to cultivate. Adapted to low levels of watering, the hooded flowers are quite striking and beautiful.",
+    "image": "PeaceLily",
+    "water_type": "2",
+    "sunlight": "1"
+  },
+  {
+    "name": "Dracaena Reflexa",
+    "content": "Ideally placed on a side table or the mantel, this slow-growing houseplant brings a lively symphony of natural hues to your home with its brightly colored green, lime and yellow leaves. Also known as the “Song of India”, the Dracaena Reflexa plant needs indirect sunlight and regular misting to keep its leaves vibrant.",
+    "image": "SongOfIndia",
+    "water_type": "1",
+    "sunlight": "1"
+  },
+  {
+    "name": "Ferns",
+    "content": "With their verdant green canopy of leaves, ferns are among the most commonly preferred plants in India. They need moderate levels of sunlight and moist soil to grow well. Daily watering and light spraying of the leaves will keep them healthy and green.",
+    "image": "Fern",
+    "water_type": "3",
+    "sunlight": "2"
+  },
+  {
+    "name": "Chinese Evergreen",
+    "content": "Chinese evergreens are popular houseplants across Asia and for good reason too. Not only do they bring prosperity into the house but these perennial herbs are counted among the most durable houseplants you can ever grow. Theytolerate poor light, dry air and drought very well.",
+    "image": "ChineseEvergreen",
+    "water_type": "3",
+    "sunlight": "3"
+  },
+  {
+    "name": "Grape Ivy",
+    "content": " it’s a climbing ornamental plant, that adds a touch of green and reduces your cooling costs  as well in the bargain! If you  are wondering how it manages to stick to the wall, then here’s the answer; it secretes calcium carbonate which serves as a natural adhesive pad and enables Grape Ivy to attach itself to a wall without requiring additional support.",
+    "image": "GrapeIvy",
+    "water_type": "1",
+    "sunlight": "4"
+  },
+  {
+    "name": "Areca palm",
+    "content": "Areca Palm wins hands down as a choice for an indoor plant, because it has has multiple stems emerging from the base, arched green leaves in the shape of a butterfly ( hence also called “butterfly palm”) , functions as a humidifier and what’s more, bears clusters of yellow flowers in summer to brighten up your home!",
+    "image": "arecaPalm",
+    "water_type": "1",
+    "sunlight": "2"
+  },
+  {
+    "name": "Green Spider Plant",
+    "content": "Spider plants have leaves that look like blades of grass with streaks of different colors either in the center or at the edges. In fact, if this is your first brush with houseplants, this plant would be the ideal choice for you to get started off on this journey!",
+    "image": "spiderPlant",
+    "water_type": "3",
+    "sunlight": "2"
+  }
+]
